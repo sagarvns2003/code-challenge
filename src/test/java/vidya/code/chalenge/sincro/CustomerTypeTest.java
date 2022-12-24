@@ -1,13 +1,19 @@
-package com.sincro.shop.constant;
+package vidya.code.chalenge.sincro;
 
 import static org.junit.Assert.assertTrue;
 
 import java.util.stream.Stream;
 
 import org.junit.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
+@SpringBootTest
 public class CustomerTypeTest {
 
+	@Test
+	void contextLoads() {
+	}
+	
 	@Test
 	public void totalCustomerTypeTest() {
 		int expectedCustomerType = 2;

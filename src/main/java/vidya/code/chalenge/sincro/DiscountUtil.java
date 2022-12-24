@@ -1,4 +1,4 @@
-package com.sincro.shop.util;
+package vidya.code.chalenge.sincro;
 
 public class DiscountUtil {
 

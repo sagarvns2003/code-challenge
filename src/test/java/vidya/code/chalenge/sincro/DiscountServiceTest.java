@@ -1,4 +1,4 @@
-package com.sincro.shop.service;
+package vidya.code.chalenge.sincro;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
@@ -12,8 +12,6 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameter;
 import org.junit.runners.Parameterized.Parameters;
-
-import com.sincro.shop.constant.CustomerType;
 
 /**
  * @author Vidya Sagar Gupta

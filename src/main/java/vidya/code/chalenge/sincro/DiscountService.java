@@ -1,10 +1,7 @@
-package com.sincro.shop.service;
+package vidya.code.chalenge.sincro;
 
 import java.util.Objects;
 import java.util.function.BiFunction;
-
-import com.sincro.shop.constant.CustomerType;
-import com.sincro.shop.util.DiscountUtil;
 
 /**
  * @author Vidya Sagar Gupta <br />

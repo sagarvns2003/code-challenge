@@ -1,4 +1,4 @@
-package com.sincro.shop.constant;
+package vidya.code.chalenge.sincro;
 
 /**
  * @author Vidya Sagar Gupta
