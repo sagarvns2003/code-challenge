@@ -1,4 +1,4 @@
-package vidya.code.chalenge.visa;
+package vidya.code.chalenge.hsbc;
 
 import java.util.Comparator;
 import java.util.List;
@@ -16,7 +16,6 @@ public class MaxTwoSum {
       return 0;
     }
     return list.stream()
-        //.filter(Objects::nonNull)
         .sorted(Comparator.reverseOrder())
         .limit(2)
         .reduce(0, Integer::sum);
