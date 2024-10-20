@@ -1,4 +1,4 @@
-package vidya.code.chalenge.visa;
+package vidya.code.chalenge.study;
 
 import java.util.Arrays;
 import java.util.List;

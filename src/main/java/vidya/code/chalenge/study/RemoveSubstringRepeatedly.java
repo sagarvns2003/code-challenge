@@ -1,4 +1,4 @@
-package vidya.code.chalenge.jpmc;
+package vidya.code.chalenge.study;
 
 /**
  * Remove the substring AB & BB from a given string seq repeatedly and print the number of remaining

@@ -1,4 +1,4 @@
-package vidya.code.chalenge.jpmc;
+package vidya.code.chalenge.study;
 
 import lombok.extern.slf4j.Slf4j;
 

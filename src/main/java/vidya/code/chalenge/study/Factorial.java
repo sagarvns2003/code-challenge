@@ -1,4 +1,4 @@
-package vidya.code.chalenge.ubs;
+package vidya.code.chalenge.study;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

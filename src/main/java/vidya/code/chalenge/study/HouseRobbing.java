@@ -1,4 +1,4 @@
-package vidya.code.chalenge.visa;
+package vidya.code.chalenge.study;
 
 // Example 1:
 // Input: Houses = [1,0,0,0,1], n = 1

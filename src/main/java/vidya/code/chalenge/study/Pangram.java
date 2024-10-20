@@ -1,4 +1,4 @@
-package vidya.code.chalenge.ibm;
+package vidya.code.chalenge.study;
 
 import java.util.HashSet;
 import java.util.Set;
