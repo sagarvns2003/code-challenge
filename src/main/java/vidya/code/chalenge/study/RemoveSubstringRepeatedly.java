@@ -34,7 +34,7 @@ public class RemoveSubstringRepeatedly {
     return seq.replace(toBeRemove, "");
   }
 
-  public static void main(String args[]) {
+  public static void main(String[] args) {
     String input = "AABBC";
     int remainingCount = removeSubstring(input);
     System.out.println(

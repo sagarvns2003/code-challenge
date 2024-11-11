@@ -14,7 +14,7 @@ public class ReverseStringWordWise {
     return a;
   }
 
-  public static void main(String args[]) {
+  public static void main(String[] args) {
     System.out.print("Please enter some words: ");
     Scanner sc = new Scanner(System.in);
     String input = sc.nextLine();

@@ -50,7 +50,7 @@ public class MeetingSchedulerMinimumRooms {
     return minimumRooms;
   }
 
-  public static void main(String args[]) {
+  public static void main(String[] args) {
     List<List<Integer>> intervalList = new ArrayList<List<Integer>>();
     intervalList.add(Arrays.asList(1, 20));
     intervalList.add(Arrays.asList(19, 30));

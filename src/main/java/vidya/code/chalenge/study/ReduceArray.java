@@ -42,7 +42,7 @@ public class ReduceArray {
     return cost;
   }
 
-  public static void main(String args[]) {
+  public static void main(String[] args) {
     List<Integer> arr = List.of(1, 2, 3);
     int cost = sumAndCost(arr);
     System.out.println("Cost of reduced array: " + cost);
