@@ -18,5 +18,7 @@ public class MaxTwoSum {
       return 0;
     }
     return list.stream().sorted(Comparator.reverseOrder()).limit(2).reduce(0, Integer::sum);
+    //return list.stream().sorted(Comparator.reverseOrder()).limit(2).reduce((i, j) -> (i+j)).get();
+    //return list.stream().sorted(Comparator.reverseOrder()).limit(2).mapToInt(i -> i).sum();
   }
 }

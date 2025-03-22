@@ -1,11 +1,11 @@
 package vidya.code.chalenge.study;
 
-public record Product(String item, Integer price) {
-  public int getPrice() {
+public record Product(String item, Double price) {
+  public Double getPrice() {
     return price;
   }
 
-  public void setPrice(int price) {
+  public void setPrice(Double price) {
     price = price;
   }
 
